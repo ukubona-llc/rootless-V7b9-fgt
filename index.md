@@ -71,8 +71,11 @@ It *learns how to see them*.
 Which is exactly why your use of:
 
 ```liquid
+
 {% raw %}
-...
+
+Stuff..
+
 {% endraw %}
 ```
 
@@ -106,7 +109,7 @@ but emerges in cognition.
 
 Even this line:
 
-\epsilon = y_{pred} - y_{obs}
+$\epsilon = y_{pred} - y_{obs}$
 
 …is the scalar compression of the entire clinical roundtable.
 
