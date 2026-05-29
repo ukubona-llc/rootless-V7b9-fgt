@@ -567,7 +567,7 @@ I was expecting you to pattern match the first query to this one
 
 ### Generative (IV)  
 - **Status:** Output Produced  
-- Forward pass complete. Generative output delivered. Current model state: ŷ | ε_FGT |²
+- Forward pass complete. Generative output delivered. Current model state: ŷ \| ε_FGT \|²
 
 ### Embodied (V) — Phase V  
 - **Status:** Feedback Loop Pending  
