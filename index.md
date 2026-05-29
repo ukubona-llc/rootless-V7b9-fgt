@@ -211,7 +211,7 @@ Everything arriving must answer:
 
 That is pure Phase II:
 
-Perception as weighted filtration.
+Perception as [weighted](https://ukubona-llc.github.io/bias-weights/) filtration.
 
 This line:
 
