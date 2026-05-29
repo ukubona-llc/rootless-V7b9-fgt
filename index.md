@@ -748,7 +748,7 @@ Here is how the concentric site log maps directly onto the TMVES pentad:
 
 ### **Phase V: Security $\rightarrow$ Embodied ($S$)**
 
-* **The Model:** The "missing arc" of backpropagation and feedback. Calculating the error $\gamma|\varepsilon\_FGT|^2$ to update the weights for the next cycle: $L(\theta^{t+1})$.
+* **The Model:** The "missing arc" of backpropagation and feedback. Calculating the error $\gamma\|\varepsilon\_FGT\|^2$ to update the weights for the next cycle: $L(\theta^{t+1})$.
 * **The Site:** The global security update. This step observes the entire stack, identifies anomalies or errors (unlocked doors, camera blind spots), and feeds that reality back to the Gate (Phase II) to update protocols for the next shift. It strictly closes the loop.
 
 ---
